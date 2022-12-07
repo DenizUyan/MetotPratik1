@@ -1,4 +1,5 @@
-##MetotPratik1
+##MetotPratik1##
+
 
 import java.util.Scanner;
 public class Main {
